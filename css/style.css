@@ -105,7 +105,6 @@ section {
   text-align: center;
   -webkit-transition: .2s linear;
   transition: .2s linear;
-  border-right: 1px solid crimson;
 }
 
 .navbar a i {
