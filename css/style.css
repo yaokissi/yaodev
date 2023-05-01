@@ -646,9 +646,9 @@ section {
   .navbar a i {
     padding: 0;
   }
-  .navbar a span {
+/*   .navbar a span {
     display: none;
-  }
+  } */
   .navbar a:hover {
     padding-bottom: 2rem;
   }
